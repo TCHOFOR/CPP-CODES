@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525098130 source:c:\users\tchofor wilson\desktop\projects\c\twotemplateinclass\main.cpp
+	<iostream>
+	<conio.h>
+	<vector>
+

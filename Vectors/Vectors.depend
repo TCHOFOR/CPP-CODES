@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1525491903 source:c:\users\tchofor wilson\desktop\projects\c\vectors\main.cpp
+	<iostream>
+	<vector>
+	<cctype>
+	<string>
+

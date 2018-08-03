@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1531251805 source:c:\users\tchofor wilson\desktop\projects\c++\new shape\main.cpp
+	<iostream>
+	"Shape.h"
+	"Rectangle.h"
+	"Triangle.h"
+
+1531251739 c:\users\tchofor wilson\desktop\projects\c++\new shape\shape.h
+
+1531251739 source:c:\users\tchofor wilson\desktop\projects\c++\new shape\shape.cpp
+	"Shape.h"
+	<iostream>
+
+1531055530 c:\users\tchofor wilson\desktop\projects\c++\new shape\rectangle.h
+	"Shape.h"
+
+1531055530 source:c:\users\tchofor wilson\desktop\projects\c++\new shape\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1531251739 source:c:\users\tchofor wilson\desktop\projects\c++\new shape\triangle.cpp
+	"Triangle.h"
+	"Shape.h"
+	<iostream>
+
+1531251751 c:\users\tchofor wilson\desktop\projects\c++\new shape\triangle.h
+	"Shape.h"
+
